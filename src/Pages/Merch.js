@@ -1,7 +1,7 @@
 import React from "react"
 import {Box} from "@chakra-ui/react"
 import MerchBox from "../Components/MerchBox";
-import onTree from "../Images/Gallery/onTree.jpg"
+import onTree from "../Images/Gallery/onTree.webp"
 
 function Merch() {
     return (
