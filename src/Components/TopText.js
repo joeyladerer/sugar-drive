@@ -8,7 +8,7 @@ function TopText() {
                 color: "black",
                 fontFamily: "typeface-abril-ftface",
                 fontSize: 100,
-                marginBottom: -30
+                marginBottom: -10
             }}>SUGAR DRIVE</p>
             <Box>
                 <p style={{
