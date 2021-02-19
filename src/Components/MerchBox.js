@@ -12,12 +12,12 @@ function MerchBox(props) {
                     color: "black",
                     fontFamily: "typeface-abril-ftface",
                     fontSize: 20,
-                }}>{props.title} -</h1>
+                }}>{props.title}</h1>
                 <h1 style={{
                     color: "black",
                     fontFamily: "typeface-abril-ftface",
                     fontSize: 20,
-                }}>- ${props.price}</h1>
+                }}>- {props.price}</h1>
             </div>
 
         </Box>

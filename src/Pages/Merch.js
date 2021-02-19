@@ -16,9 +16,9 @@ function Merch() {
             <Box marginBottom={-5}>
             <div style={{display: "flex", flexWrap: "wrap", justifyContent: "center"}}>
                 <MerchBox
-                    title={"Antics and Optics T-Shirt"}
+                    title={"-- merch coming soon -"}
                     image={onTree}
-                    price={"25"}
+                    price={""}
                 />
             </div>
             </Box>
