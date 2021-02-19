@@ -1,7 +1,7 @@
 import React from "react"
 import {Box, Button, ButtonGroup, Divider} from "@chakra-ui/react"
 import TitleDescription from "./TitleDescription";
-import ADCover from "../Pages/Gallery/ADCover.jpeg"
+import ADCover from "../Images/Gallery/ADCover.jpeg"
 import SinglesLayout from "./SinglesLayout";
 
 function ReleaseBlock(props) {

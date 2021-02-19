@@ -1,5 +1,5 @@
 import React from "react"
-import sideBySide from "./Gallery/sideBySide.jpg"
+import sideBySide from "../Images/Gallery/sideBySide.webp"
 
 function About() {
     return (

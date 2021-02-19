@@ -1,7 +1,7 @@
 import React from "react"
 import ReleaseBlock from "./ReleaseBlock";
 import {Box} from "@chakra-ui/react";
-import ADCover from "../Pages/Gallery/ADCover.jpeg"
+import ADCover from "../Images/Gallery/ADCover.webp"
 
 function Albums() {
     return (

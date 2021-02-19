@@ -1,9 +1,8 @@
 import React from "react"
 import ReleaseBlock from "./ReleaseBlock";
 import {Box} from "@chakra-ui/react";
-import ADCover from "../Pages/Gallery/ADCover.jpeg"
-import ParanoiaCover from "../Pages/Gallery/ParanoiaCover.png"
-import PurgatoryCover from "../Pages/Gallery/PurgatoryCover.png"
+import ParanoiaCover from "../Images/Gallery/paranoiacover_v1.webp"
+import PurgatoryCover from "../Images/Gallery/PurgatoryCover.png"
 
 function Singles() {
     return (
