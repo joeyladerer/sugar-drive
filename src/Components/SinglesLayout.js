@@ -9,15 +9,16 @@ function SinglesLayout(props) {
             <div style={{
                 display: "flex",
                 justifyContent: "center",
+                flexWrap: "wrap-reverse"
             }}>
-                <Box marginRight={10}>
+                <Box marginBottom={59}>
                     <TitleDescription
                         title={props.title}
                         release={props.release}
                         description={props.description}/>
                 </Box>
-                <Box marginLeft={10}>
-                    <img src={props.image} width={400}/>
+                <Box marginBottom={-19} marginTop={5} marginLeft={5} marginRight={5}>
+                    <img src={props.image} width={350}/>
                 </Box>
             </div>
         </Box>

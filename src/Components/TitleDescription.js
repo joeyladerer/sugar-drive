@@ -3,13 +3,14 @@ import {Box} from "@chakra-ui/react"
 
 function TitleDescription(props) {
     return (
-        <div style={{textAlign: "center"}}>
+        <div style={{textAlign: "center", margin: 3}}>
             <Box marginTop={5}
                 style={{
                     color: "black",
                     fontFamily: "typeface-abril-ftface",
                     fontSize: 60,
-                    marginBottom: -30}}
+                    marginBottom: -30,
+                }}
             >{props.title}</Box>
             <Box marginTop={3}
                 style={{
@@ -18,7 +19,7 @@ function TitleDescription(props) {
                     fontSize: 27,
                     marginBottom: -30}}
             >released {props.release}</Box>
-            <Box margin={10} width={500}
+            <Box margin={10}
                 style={{
                     color: "black",
                     fontFamily: "typeface-abril-ftface",

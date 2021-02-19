@@ -10,7 +10,7 @@ function Merch() {
                 <h1 style={{
                     color: "black",
                     fontFamily: "typeface-abril-ftface",
-                    fontSize: 40
+                    fontSize: 30
                 }}>reach out to sugardrivemusic@gmail.com to purchase merch!</h1>
             </Box>
             <Box marginBottom={-5}>
