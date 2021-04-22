@@ -16,7 +16,7 @@ function TopText() {
                     fontFamily: "typeface-abril-ftface",
                     fontSize: 30,
                     marginBottom: -10
-                }}>new album coming soon</p>
+                }}>Antics and Optics out now!</p>
             </Box>
         </Box>
     )
